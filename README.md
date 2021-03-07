@@ -10,7 +10,9 @@ Kovrizhnuh Dmitrii - Team Member 2 (Communicator/ Formal task writer/ Will deal 
 ## Environment
 
 Visual Studio 2020 Enterprise version
+
 Sailfish SDK
+
 Visual Studio ver > 4.118
 
 ## Tasks
